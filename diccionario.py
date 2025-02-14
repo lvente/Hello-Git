@@ -1,3 +1,3 @@
-diccionario = {"Luis Vente": 30, "Jenny":33, "Leonor": 53, "Bessie":22, "Kenny":16, "Milton" : 40, "Martin" : 55, "Pedro": 70, "Irni": 49, "Moron" : 52}
+diccionario = {"Luis Vente": 30, "Jenny Vente":33, "Leonor Gomez": 53, "Bessie Vente":22, "Kenny Valencia":16, "Milton Gomez" : 40, "Martin Gomez" : 55, "Pedro Largacha": 70, "Irni Gomez": 49, "Moron Gomez" : 52}
 
 print(diccionario)
